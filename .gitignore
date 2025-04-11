@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# MacOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# Logs and local DBs
+*.log
+*.sqlite3
+
+# Pytest cache
+.pytest_cache/
+
+# MySQL socket or dump files
+*.sql
+
+# Env files or secret config
+.env
+.env.*
+
+# Compiled files
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Cache
+*.cache
